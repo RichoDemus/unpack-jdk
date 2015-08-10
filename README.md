@@ -10,7 +10,7 @@ How to install the JDK on windows without using the installer (to avoid potentia
 
 
 
-example:  
+## Example  
 bin/unpack200.exe jre/lib/charsets.pack jre/lib/charsets.jar  
 bin/unpack200.exe jre/lib/deploy.pack jre/lib/deploy.jar  
 bin/unpack200.exe jre/lib/ext/jfxrt.pack jre/lib/ext/jfxrt.jar  
